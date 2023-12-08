@@ -14,37 +14,19 @@
 
 
 
-## 🌐 Profiles
+## 🌐 Social Profiles
 
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tanzilrayhan2001)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanzilrayhan) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanzilrayhan)  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tanzilrayhan2001)
 
 ## 💻 Tech Stacks - Explored
 
 ### Languages 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,js,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,js,ts)](https://skillicons.dev)
 ### FrontEnd 
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,html,css,bootstrap,sass,tailwind,materialui)](https://skillicons.dev)
 ### BackEnd 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongo,firebase,mysql)](https://skillicons.dev)
-### Design 
-[![My Skills](https://skillicons.dev/icons?i=figma,photoshop,illustrator,)](https://skillicons.dev)
 ### Tools 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,)](https://skillicons.dev)
-
-
-
-<!--
-**TanzilRayhan/TanzilRayhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,vite,)](https://skillicons.dev)
+### Design 
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,)](https://skillicons.dev)
