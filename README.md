@@ -1,4 +1,41 @@
-### Hi there 👋
+<a href="">
+<img src="./images/Profile-Cover.png" />
+</a>
+
+## 📈 Profile Summary
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanzilrayhan&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanzilrayhan&theme=tokyonight)
+
+
+
+
+
+## 📊 GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tanzilrayhan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+
+[![](https://visitcount.itsvg.in/api?id=tanzilrayhan&label=Profile%20Views&color=1&icon=8&pretty=false)](https://visitcount.itsvg.in)
+
+## 🌐 Socials
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tanzilrayhan2001)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanzilrayhan) 
+
+## 💻 Tech Stacks
+
+### Languages 
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,js,py)](https://skillicons.dev)
+### FrontEnd 
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind,materialui)](https://skillicons.dev)
+### BackEnd 
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongo,firebase,mysql)](https://skillicons.dev)
+### Design 
+[![My Skills](https://skillicons.dev/icons?i=figma,photoshop,illustrator,)](https://skillicons.dev)
+### Tools 
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,)](https://skillicons.dev)
+
+
 
 <!--
 **TanzilRayhan/TanzilRayhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
