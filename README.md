@@ -7,13 +7,14 @@
 # 💫 Hello World !!!
 ## Tanzil here👋
 
-<h3>I'm a proficient web developer having experience in both front-end and back-end technologies. I bring a comprehensive skill set to the table, providing seamless and visually appealing web solutions. I am eager to contribute my skills to innovative endeavors and to continually refine my abilities in the dynamic industry of web development.</h3> <br>
+I'm a proficient web developer having experience in both front-end and back-end technologies. I bring a comprehensive skill set to the table, providing seamless and visually appealing web solutions. I am eager to contribute my skills to innovative endeavors and to continually refine my abilities in the dynamic industry of web development.</h3> <br>
 
 ## 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanzilrayhan&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tanzilrayhan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanzilrayhan&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tanzilrayhan&theme=tokyonight)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanzilrayhan&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanzilrayhan&theme=tokyonight&utcOffset=8)
 
