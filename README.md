@@ -2,6 +2,13 @@
 <img src="./images/Profile-Cover.png" />
 </a>
 
+<br>
+
+# 💫 Hello World !!!
+## Tanzil here👋
+
+<h4>I'm a proficient web developer having experience in both front-end and back-end technologies. I bring a comprehensive skill set to the table, providing seamless and visually appealing web solutions. I am eager to contribute my skills to innovative endeavors and to continually refine my abilities in the dynamic industry of web development.</h4> <br>
+
 ## 📊 GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tanzilrayhan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
