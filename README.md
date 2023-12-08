@@ -7,7 +7,8 @@
 # 💫 Hello World !!!
 ## Tanzil here👋
 
-I'm a proficient web developer having experience in both front-end and back-end technologies. I bring a comprehensive skill set to the table, providing seamless and visually appealing web solutions. I am eager to contribute my skills to innovative endeavors and to continually refine my abilities in the dynamic industry of web development.</h3> <br>
+I'm a proficient web developer having experience in both front-end and back-end technologies. I bring a comprehensive skill set to the table, providing seamless and visually appealing web solutions. I am eager to contribute my skills to innovative endeavors and to continually refine my abilities in the dynamic industry of web development.
+<br>
 
 ## 📊 GitHub Stats
 
@@ -33,12 +34,12 @@ I'm a proficient web developer having experience in both front-end and back-end 
 ## 💻 Tech Stacks - Explored
 
 ### Languages 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,js,ts)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,js,ts)
 ### FrontEnd 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,html,css,bootstrap,sass,tailwind,materialui)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,html,css,bootstrap,sass,tailwind,materialui)
 ### BackEnd 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongo,firebase,mysql)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongo,firebase,mysql)
 ### Tools 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,vite,)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,vite,)
 ### Design 
-[![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,)
