@@ -7,7 +7,7 @@
 # 💫 Hello World !!!
 ## Tanzil here👋
 
-I'm a proficient web developer having experience in both front-end and back-end technologies. I bring a comprehensive skill set to the table, providing seamless and visually appealing web solutions. I am eager to contribute my skills to innovative endeavors and to continually refine my abilities in the dynamic industry of web development.
+I work at CoreTales as a web developer with experience in frontend and backend technologies. My diverse skill set allows me to create visually appealing and uniform web solutions. I'm excited to apply my abilities to innovative projects and to keep improving in this dynamic web development industry.
 <br>
 
 ## 📊 GitHub Stats
@@ -22,11 +22,6 @@ I'm a proficient web developer having experience in both front-end and back-end 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanzilrayhan&theme=tokyonight)
 
 
-
-
-
-
-
 ## 🌐 Social Profiles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanzilrayhan)  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tanzilrayhan2001)
@@ -34,7 +29,7 @@ I'm a proficient web developer having experience in both front-end and back-end 
 ## 💻 Tech Stacks - Explored
 
 ### Languages 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,js,ts)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,js,ts,php)
 ### FrontEnd 
 ![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,html,css,bootstrap,sass,tailwind,materialui)
 ### BackEnd 
