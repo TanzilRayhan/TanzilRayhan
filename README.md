@@ -1,5 +1,5 @@
 <a href="">
-<img src="./images/Profile-Cover.png" />
+<img src="./images/GitHub-Banner.png" />
 </a>
 
 <br>
