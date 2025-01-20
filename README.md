@@ -12,8 +12,7 @@ I work at CoreTales as a web developer with experience in frontend and backend t
 
 ## 📊 GitHub Stats
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tanzilrayhan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanzilrayhan&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tanzilrayhan&theme=tokyonight)
 
