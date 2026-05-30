@@ -7,7 +7,7 @@
 # 💫 Hello World !!!
 ## Tanzil here👋
 
-I work at CoreTales as a web developer with experience in frontend and backend technologies. My diverse skill set allows me to create visually appealing and uniform web solutions. I'm excited to apply my abilities to innovative projects and to keep improving in this dynamic web development industry.
+I'm an Official Certified Framer Expert and Full Stack Web Developer with 4+ years building responsive, performance-optimized websites. Whether you need a Figma to Framer conversion, a custom React/Next.js web application, or a complete UI/UX design from scratch, I deliver clean, modern results that work.
 <br>
 
 ## 📊 GitHub Stats
@@ -36,4 +36,4 @@ I work at CoreTales as a web developer with experience in frontend and backend t
 ### Tools 
 ![My Skills](https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,vite,)
 ### Design 
-![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,)
+![My Skills](https://skillicons.dev/icons?i=framer,figma,ps,ai,)
