@@ -36,4 +36,4 @@ I'm an Official Certified Framer Expert and Full Stack Web Developer with 4+ yea
 ### Tools 
 ![My Skills](https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,vite,)
 ### Design 
-![My Skills](https://skillicons.dev/icons?i=framer,figma,ps,ai,)
+![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,)
